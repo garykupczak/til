@@ -1,0 +1,2 @@
+- [Volta](https://volta.sh/) - node version; toolchain management
+- [Clerk](https://clerk.com/) - authentication/user management
